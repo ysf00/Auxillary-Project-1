@@ -153,7 +153,7 @@ userfile=$(cat names.csv)
             fi
         done
     else
-    echo "All Users Created. Thank You"
+    echo "Only Admin Can Onboard A User"
     fi
 ```
 
